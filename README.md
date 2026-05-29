@@ -2,17 +2,7 @@
 
 本文介绍如何把 [https://sub.bulita.net](https://sub.bulita.net) 接入到 Codex 使用。
 
-可以先用一句话概括这个站：
-
-`便宜，稳定，也够快。`
-
-如果你接 Codex 的核心诉求是：
-
-- 倍率低
-- 稳定
-- 响应快
-
-那 `sub.bulita.net` 是比较直接的一种方案。
+客户端官方下载地址: https://developers.openai.com/codex/app
 
 它当前主打的几个优势可以直接概括为：
 
