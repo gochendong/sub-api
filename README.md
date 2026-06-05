@@ -4,7 +4,7 @@
 
 - 生图网站: [https://img.bulita.net](https://img.bulita.net)
 - api key获取 [https://sub.bulita.net/keys](https://sub.bulita.net/keys)
-- api接口参考OpenAI官方 /v1/images/generations 模型 gpt-image-2
+- api接口参考OpenAI官方 /v1/images/generations和/v1/images/edits 模型 gpt-image-2
 
 --------------
 
