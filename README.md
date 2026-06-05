@@ -1,5 +1,13 @@
 # 布里塔中转站接入 Codex 教程
 
+## 前置(image2生图)
+
+- 生图网站: [https://img.bulita.net](https://img.bulita.net)
+- api key获取 [https://sub.bulita.net/keys](https://sub.bulita.net/keys)
+- api接口参考OpenAI官方 /v1/images/generations 模型 gpt-image-2
+
+--------------
+
 本文介绍如何把 [https://sub.bulita.net](https://sub.bulita.net) 接入到 Codex 使用。
 
 客户端官方下载地址: https://developers.openai.com/codex/app
