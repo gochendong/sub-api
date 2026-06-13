@@ -10,7 +10,9 @@
 
 本文介绍如何把 [https://sub.bulita.net](https://sub.bulita.net) 接入到 Codex 使用。
 
-客户端官方下载地址: https://developers.openai.com/codex/app
+codex客户端官方下载地址: https://developers.openai.com/codex/app
+
+一键codex账号管理工具 https://github.com/jlcodes99/cockpit-tools/releases
 
 它当前主打的几个优势可以直接概括为：
 
