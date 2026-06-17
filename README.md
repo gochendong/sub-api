@@ -12,7 +12,7 @@
 
 codex客户端官方下载地址: https://developers.openai.com/codex/app
 
-一键codex账号管理工具 https://github.com/jlcodes99/cockpit-tools/releases
+推荐codex账号管理工具(不推荐ccs) https://github.com/jlcodes99/cockpit-tools/releases
 
 它当前主打的几个优势可以直接概括为：
 
