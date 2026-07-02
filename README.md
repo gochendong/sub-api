@@ -256,13 +256,8 @@ requires_openai_auth = true
 - `稳定`，省掉频繁更换中转的成本
 - `快`，尤其适合写代码时的连续交互
 
-如果按首页风格总结，就是：
-
-`少花钱，稳着用，速度也不掉队。`
-
 ## 十、参考
 
 - 布里塔中转站：<https://sub.bulita.net>
-- 布里塔首页：<https://sub.bulita.net/home>
-- 售后交流群：<https://chat.bulita.net/>
+- 售后交流群：<https://hi.bulita.net/>
 - OpenAI Codex：<https://developers.openai.com/codex>
