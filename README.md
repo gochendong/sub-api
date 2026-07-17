@@ -16,7 +16,11 @@ codex账号开源管理工具 https://github.com/jlcodes99/cockpit-tools/release
 
 如果不想使用官方Codex, 建议使用更方便的Zcode客户端: https://zcode.z.ai/cn
 
-设置 -> 模型设置 -> 添加供应商 -> 填入 base_url 和 api_key, API格式选择Responses, 填入你想调用的模型比如gpt-5.6-sol -> 返回工作区
+1. 设置
+2. 模型设置
+3. 添加供应商
+4. 填入 base_url 和 api_key, API格式选择Responses, 填入你想调用的模型比如 gpt-5.6-sol 
+5. 返回工作区
 
 ## 常见问题
 
