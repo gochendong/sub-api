@@ -14,13 +14,13 @@ codex账号开源管理工具 https://github.com/jlcodes99/cockpit-tools/release
 
 ### 其他客户端选择
 
-如果不想使用官方Codex, 建议使用更方便的Zcode客户端: https://zcode.z.ai/cn
+如果不想使用官方Codex, 建议使用更方便的Cherry Studio客户端: https://cherryai.com.cn/
 
-1. 设置
-2. 模型设置
-3. 添加供应商
-4. 填入 base_url 和 api_key, API格式选择Responses, 填入你想调用的模型比如 gpt-5.6-sol 
-5. 返回工作区
+1. 点击右上角的**设置**
+2. 点击列表底部的**添加**
+3. 供应商选择OpenAI(chat协议) 或 OpenAI Response协议
+4. 填入 base_url 和 api_key 后点击**获取模型列表**, 对需要的模型点击 **+** 号
+5. 返回首页
 
 ## 常见问题
 
