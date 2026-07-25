@@ -10,9 +10,9 @@
 
 codex客户端官方下载地址: https://developers.openai.com/codex/app
 
-codex账号开源管理工具: https://github.com/farion1231/cc-switch/releases
+codex账号开源管理工具ccs: https://github.com/farion1231/cc-switch/releases
 
-网站菜单 API密钥 -> 列表右侧 导入到CCS -> 重启codex
+网站菜单 API密钥 -> 创建API密钥 -> API列表右侧 导入到CCS -> 重启codex
 
 ## 常见问题
 
