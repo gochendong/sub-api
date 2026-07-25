@@ -2,7 +2,7 @@
 
 ## 前置(image2生图)
 
-- 生图网站: [https://img.bulita.net](https://img.bulita.net)
+- 生图网站: [https://ai.bulita.net/image](https://ai.bulita.net/image)
 - api key获取 [https://sub.bulita.net/keys](https://sub.bulita.net/keys)
 - api接口参考OpenAI官方 /v1/images/generations和/v1/images/edits 模型 gpt-image-2
 
@@ -10,17 +10,9 @@
 
 codex客户端官方下载地址: https://developers.openai.com/codex/app
 
-codex账号开源管理工具 https://github.com/jlcodes99/cockpit-tools/releases
+codex账号开源管理工具: https://github.com/farion1231/cc-switch/releases
 
-### 其他客户端选择
-
-如果不想使用官方Codex, 建议使用更方便的Cherry Studio客户端: https://cherryai.com.cn/
-
-1. 点击右上角的**设置**
-2. 点击列表底部的**添加**
-3. 供应商选择OpenAI(chat协议) 或 OpenAI Response协议
-4. 填入 base_url 和 api_key 后点击**获取模型列表**, 对需要的模型点击 **+** 号
-5. 返回首页
+网站菜单 API密钥 -> 列表右侧 导入到CCS -> 重启codex
 
 ## 常见问题
 
