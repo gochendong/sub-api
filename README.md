@@ -12,6 +12,8 @@ codex客户端官方下载地址: https://developers.openai.com/codex/app
 
 codex一键配置工具cc switch: https://github.com/farion1231/cc-switch/releases
 
+其他配置工具(恢复会话可见性) cockpit: https://github.com/jlcodes99/cockpit-tools/releases
+
 网站菜单 API密钥 -> 创建API密钥 -> API列表右侧 导入到CCS -> 重启codex
 
 ## 常见问题
