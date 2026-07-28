@@ -24,7 +24,7 @@ codex一键配置工具cc switch: https://github.com/farion1231/cc-switch/releas
 
 ### 2. 提示模型不存在
 
-这通常不是 Codex 配置问题，而是中转站当前支持的模型名和你填写的不一致。
+这通常不是 Codex 配置问题，而是中转站当前支持的模型名和你填写的不一致。 请使用最新版本模型比如 gpt-5.6-sol
 
 ## 参考
 
