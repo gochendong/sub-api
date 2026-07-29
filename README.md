@@ -1,20 +1,24 @@
 # 布里塔中转站接入 Codex 教程
 
-## 前置(image2生图)
+## 使用官方Codex / VS Code插件
 
-- 生图网站: [https://ai.bulita.net/image](https://ai.bulita.net/image)
-- api key获取 [https://sub.bulita.net/keys](https://sub.bulita.net/keys)
+1. 下载官方Codex客户端: https://developers.openai.com/codex/app
+
+2. 下载一键配置工具cc switch: https://github.com/farion1231/cc-switch/releases 其他配置工具(恢复会话可见性): [cockpit](https://github.com/jlcodes99/cockpit-tools/releases)
+
+3. 选择网站菜单 API密钥 -> 创建API密钥 -> 选择Codex分组
+
+4. API列表右侧 导入到CCS 按钮
+
+5. 重启codex
+
+### image2生图
+
+1. 选择网站菜单 API密钥 -> 创建API密钥 -> 选择生图分组
+
+2. 选择网站菜单 AI生图, 右上角填写API密钥
+ 
 - api接口参考OpenAI官方 /v1/images/generations和/v1/images/edits 模型 gpt-image-2
-
-## 使用官方Codex / 插件
-
-codex客户端官方下载地址: https://developers.openai.com/codex/app
-
-codex一键配置工具cc switch: https://github.com/farion1231/cc-switch/releases
-
-其他配置工具(恢复会话可见性) cockpit: https://github.com/jlcodes99/cockpit-tools/releases
-
-网站菜单 API密钥 -> 创建API密钥 -> API列表右侧 导入到CCS -> 重启codex
 
 ## 常见问题
 
