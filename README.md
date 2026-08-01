@@ -1,5 +1,9 @@
 # 布里塔中转站接入 Codex 教程
 
+## 站长自用🪜推荐(全网最低 1.5R = 100G/月 + 10个设备在线)
+
+- https://hi.bulita.net/s/xmj8gj
+
 ## 使用官方Codex / VS Code插件
 
 1. 下载官方Codex客户端: https://developers.openai.com/codex/app
